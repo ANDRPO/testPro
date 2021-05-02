@@ -12,6 +12,7 @@ namespace ConsoleApp19
         {
             Console.WriteLine("HI!");
             Console.ReadKey();
+            //asdasd
         }
     }
 }
